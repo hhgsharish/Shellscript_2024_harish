@@ -1,0 +1,3 @@
+this is a error file
+to test grep command
+shell script
